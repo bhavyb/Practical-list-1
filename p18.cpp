@@ -1,4 +1,6 @@
 // Write C++ program to find compound interest
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 #include <cmath>
 using namespace std;
