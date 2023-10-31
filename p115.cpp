@@ -1,4 +1,6 @@
 //Write C++ Program to Check Whether a Number is Prime or Not using function
+//220130318038
+//Bhavy Bhuva
 #include<iostream>
 using namespace std;
 int primeNumber(int);
