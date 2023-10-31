@@ -1,4 +1,6 @@
 //Write C++ Program to Calculate Sum of First n Natural Numbers using function.
+//220130318038
+//Bhavy Bhuva
 #include<iostream>
 using namespace std;
 int getsum(int);
