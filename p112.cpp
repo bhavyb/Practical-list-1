@@ -1,4 +1,6 @@
 //Write C++ Program To Print Multiplication Table of a Number
+//220130318038
+//Bhavy Bhuva
 #include<iostream>
 using namespace std;
 int main()
