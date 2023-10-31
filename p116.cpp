@@ -1,4 +1,6 @@
 //Write C++ Program to Check Armstrong Number using function
+//220130318038
+//Bhavy Bhuva
 #include<iostream>  
 using namespace std;  
 int arm(int num);    
