@@ -1,4 +1,6 @@
 //Write a C program to input elements in array and print all negative elements
+//220130318038
+//Bhavy Bhuva
 #include<iostream>
 using namespace std;
 int main()
