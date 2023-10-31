@@ -1,4 +1,6 @@
 // Write C++ Program to Make a Simple Calculator with the use of switch case
+//220130318038
+//Bhavy Bhuva
 #include <iostream>
 using namespace std;
   int main() 
